@@ -1,0 +1,3 @@
+http://dss.princeton.edu/cgi-bin/dataresources/newdataresources.cgi?term=21
+https://www.nlsinfo.org/content/getting-started/intro-to-the-nls/tutorials/tutorial-variable-search-nls-investigator
+https://www.nlm.nih.gov/hsrinfo/datasites.html
