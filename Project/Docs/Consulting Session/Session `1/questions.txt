@@ -1,0 +1,18 @@
+#Questions for Dr. Strand
+
+2. Is it OK to have treatment step 0 as treatmentstep 6 in order to get proportional oddsd referenced to step 0?
+1. How do we make contrasts statements for identifying the odds of Treatment step (compared to reference trt_step 5, highest trt step)
+3. What does it mean when the F value goes to infinity (i.e. in the H2 where interaction term)?
+4. Does my hypothesis need to be more specific? Or can I just give a general description based on the significance of variables to the outcomes?
+
+*Recommendations
+1. Recategorize the treatment steps
+2. Double check if sample size is 1000
+3. Try separate 1000 sample to make sure something crazy isn't going on
+4. Try 500 or even 300
+5. How does changing the order of polynomials change the effect
+6. Run a loess procedure on time to determine if there 
+7. Sensitivity approach covariates look at the estimate of those variables when adding or subtacting time terms 
+
+Point is to try to get estimates! standard errors and F values
+Process is to start small

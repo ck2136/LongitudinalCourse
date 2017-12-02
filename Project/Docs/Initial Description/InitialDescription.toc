@@ -1,0 +1,61 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{List of Figures}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{List of Tables}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Changes and Additions}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1}Data Management}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2}Modeling}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Hypotheses}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C}Statistical Methods}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.1}Hypothesis 1}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {C.1.1}Model 1: Model with All Covariates}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {C.1.2}Model 2: Polynomial Trend}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.2}Hypothesis 2a}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {C.2.1}Model 1:Simple Model with all covariates}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {C.2.2}Model 2: Modeling polynomial trend for time}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.3}Hypothesis 2b}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {C.3.1}Model 1: Model with all covariates}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {C.3.2}Model 2: Modeling polynomial trend for time}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D}New Results from Changes}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.1}Hypothesis 1}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {D.1.1}Final Output for Hypothesis 1}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.2}Hypothesis 2a}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {D.2.1}Final Output for Hypothesis 2a}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.3}Hypothesis 2b}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {D.3.1}Final Output for Hypothesis 2b}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {E}Initial Descriptives}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {F}Graphical Visualization}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {G}Appendix}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {G.1}Description of Data}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {G.2}Variables}{16}
